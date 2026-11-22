@@ -1,0 +1,6 @@
+id=getapps_privapp
+name=GetApps Privileged
+version=v3
+versionCode=3
+author=TheOverthinkerDev
+description=Turn Xiaomi GetApps (com.xiaomi.market) into a /product/priv-app so it can install apps silently. The APK is taken from the device at flash time.
